@@ -1,0 +1,11 @@
+C:\Users\jabecker\source\repos\DotNetPractice_WebApp\DotNetPractice_WebApp\bin\Any CPU\Release\netcoreapp2.0\DotNetPractice_WebApp.deps.json
+C:\Users\jabecker\source\repos\DotNetPractice_WebApp\DotNetPractice_WebApp\bin\Any CPU\Release\netcoreapp2.0\DotNetPractice_WebApp.runtimeconfig.json
+C:\Users\jabecker\source\repos\DotNetPractice_WebApp\DotNetPractice_WebApp\bin\Any CPU\Release\netcoreapp2.0\DotNetPractice_WebApp.runtimeconfig.dev.json
+C:\Users\jabecker\source\repos\DotNetPractice_WebApp\DotNetPractice_WebApp\bin\Any CPU\Release\netcoreapp2.0\DotNetPractice_WebApp.dll
+C:\Users\jabecker\source\repos\DotNetPractice_WebApp\DotNetPractice_WebApp\bin\Any CPU\Release\netcoreapp2.0\DotNetPractice_WebApp.pdb
+C:\Users\jabecker\source\repos\DotNetPractice_WebApp\DotNetPractice_WebApp\obj\Any CPU\Release\netcoreapp2.0\DotNetPractice_WebApp.csprojResolveAssemblyReference.cache
+C:\Users\jabecker\source\repos\DotNetPractice_WebApp\DotNetPractice_WebApp\obj\Any CPU\Release\netcoreapp2.0\DotNetPractice_WebApp.csproj.CoreCompileInputs.cache
+C:\Users\jabecker\source\repos\DotNetPractice_WebApp\DotNetPractice_WebApp\obj\Any CPU\Release\netcoreapp2.0\DotNetPractice_WebApp.AssemblyInfoInputs.cache
+C:\Users\jabecker\source\repos\DotNetPractice_WebApp\DotNetPractice_WebApp\obj\Any CPU\Release\netcoreapp2.0\DotNetPractice_WebApp.AssemblyInfo.cs
+C:\Users\jabecker\source\repos\DotNetPractice_WebApp\DotNetPractice_WebApp\obj\Any CPU\Release\netcoreapp2.0\DotNetPractice_WebApp.dll
+C:\Users\jabecker\source\repos\DotNetPractice_WebApp\DotNetPractice_WebApp\obj\Any CPU\Release\netcoreapp2.0\DotNetPractice_WebApp.pdb
