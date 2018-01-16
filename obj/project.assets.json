@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.0": {
+      "DotNetPractice/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.0/DotNetPractice.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/DotNetPractice.dll": {}
+        }
+      },
       "Libuv/1.10.0": {
         "type": "package",
         "dependencies": {
@@ -4750,6 +4759,16 @@
     }
   },
   "libraries": {
+    "DotNetPractice/1.0.0": {
+      "sha512": "tzYXB8V2YjvTdN9Ya/vGRLnxR98HKGna6Uv+BJHoBqHoAZXwuOLN4K4cuo4IwFdxtsiNjO0SIISJKJrUFJ/Kug==",
+      "type": "package",
+      "path": "dotnetpractice/1.0.0",
+      "files": [
+        "dotnetpractice.1.0.0.nupkg.sha512",
+        "dotnetpractice.nuspec",
+        "lib/netcoreapp2.0/DotNetPractice.dll"
+      ]
+    },
     "Libuv/1.10.0": {
       "sha512": "GsCf4q+eyaI49rCPlgYxdxa1SQCysXFFdSJWdstrwxytg4+VPYLYrXD4AT2rjHVJ+UF7SSWX9CapWEYaU4ejVQ==",
       "type": "package",
@@ -12530,6 +12549,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
+      "DotNetPractice >= 1.0.0",
       "Microsoft.AspNetCore.All >= 2.0.5",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -12581,6 +12601,10 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "DotNetPractice": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
             "version": "[2.0.5, )"

@@ -17,8 +17,9 @@ namespace DotNetPractice_WebApp.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
-
+            //USING COMPONENT, STATIC
+            DotNetPractice.IsEven prac = new DotNetPractice.IsEven();
+            ViewData["Message"] = prac.Main(3);
             return View();
         }
 
